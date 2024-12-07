@@ -1,0 +1,2 @@
+{"level":"info","message":"::ffff:127.0.0.1 - - [26/Nov/2024:23:51:13 +0000] \"POST /register HTTP/1.1\" 201 42 \"-\" \"PostmanRuntime/7.42.0\""}
+{"level":"info","message":"::ffff:127.0.0.1 - - [26/Nov/2024:23:51:21 +0000] \"POST /login HTTP/1.1\" 401 31 \"-\" \"PostmanRuntime/7.42.0\""}
